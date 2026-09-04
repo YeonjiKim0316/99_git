@@ -11,3 +11,8 @@
 - git commit -m "fix: 수정내용"
 - git push origin 브랜치명
 
+# 0904_이름2로 브랜치를 파서
+- 해당 브랜치에 본인이름으로 된 마크다운 파일을 만듭니다.
+- 내용을 적습니다.
+- 그리고 commit 후
+- main에 pull request를 보냅니다. 
